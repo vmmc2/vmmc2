@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <a href="https://github.com/vmmc2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmmc2&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmmc2&layout=compact&langs_count=10&theme=midnight-purple"/>
+</div>
