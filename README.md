@@ -1,4 +1,9 @@
 ### Hi there 👋
+### My name is Victor and I am a Computer Engineer BSc. student at Universidade Federal de Pernambuco (UFPE)
+
+- 🌱 I’m currently learning Web Development
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I __love__ Competitive Programming
 
 <!--
 **vmmc2/vmmc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
