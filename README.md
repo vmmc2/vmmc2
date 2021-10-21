@@ -2,7 +2,6 @@
 ### My name is Victor and I am a Computer Engineer BSc. student at Universidade Federal de Pernambuco (UFPE)
 
 - 🌱 I’m currently learning Web Development
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I __love__ Competitive Programming
 
 <!--
