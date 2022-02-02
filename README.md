@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name is Victor and I am a Computer Engineer BSc. student at Universidade Federal de Pernambuco (UFPE)
 
-- 🌱 Interests: learning Web Development, Compilers and Language Implementations, AI.
+- 🌱 Interests: Web Development, AI.
 - ⚡ Fun fact: I __love__ Competitive Programming
 
 <!--
