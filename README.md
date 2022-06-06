@@ -2,7 +2,6 @@
 ### Computer Engineer BSc. student at Universidade Federal de Pernambuco (UFPE), Brazil.
 
 ### About me:
-* What I like: Web Development (Front-End, Back-End, Design, etc...), Machine Learning, A&DS.
 <!--
 **vmmc2/vmmc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
