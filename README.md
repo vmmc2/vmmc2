@@ -1,5 +1,5 @@
 ### Hello there! 
-* Computer Engineer student at Universidade Federal de Pernambuco, Brazil.
+* Computer Engineer student at Universidade Federal de Pernambuco.
 * Deep Learning Researcher at Project Samsung.
 
 ### About me:
