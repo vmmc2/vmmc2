@@ -1,7 +1,11 @@
 ### Hello there! 
 * Computer Engineer student at Universidade Federal de Pernambuco.
 * Deep Learning Researcher at Project Samsung.
-* Interests: Algorithms and Data Structures, Deep Learning applied to Computer Graphics, Reinforcement Learning, Compilers, Programming Languages.
+* __Interests:__ 
+  * __Algorithms and Data Structures__
+  * __Deep Learning applied to Computer Graphics__
+  * __Reinforcement Learning__
+  * __Compilers and Programming Languages__
 
 ### About me:
 <!--
