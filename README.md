@@ -4,9 +4,8 @@
 * __Job and Professional Interests:__ 
   * __Deep Learning applied to Computer Graphics and Computer Vision__
 * __Personal and Hobby Interests:__
-  * __Front-End Development and UI__
+  * __Web Development__
   * __Algorithms and Data Structures__
-  * __Game Development__
   * __Compilers and Programming Languages__
 
 ### About me:
