@@ -3,10 +3,7 @@
 * Deep Learning Researcher at Project Samsung.
 * __Job and Professional Interests:__ 
   * __Deep Learning applied to Computer Graphics and Computer Vision__
-* __Personal and Hobby Interests:__
-  * __Web Development__
-  * __Algorithms and Data Structures__
-  * __Compilers and Programming Languages__
+  * __Front End and Back End Development__
 
 ### About me:
 <!--
