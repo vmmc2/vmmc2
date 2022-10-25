@@ -2,8 +2,9 @@
 * Computer Engineering student at Universidade Federal de Pernambuco.
 * Deep Learning Researcher at Project Samsung.
 * __Job and Professional Interests:__ 
-  * __Deep Learning applied to Computer Graphics and Computer Vision__
-  * __Front End and Back End Development__
+  * Compilers
+  * Web Development
+  * Algorithms and Data Structures
 
 ### About me:
 <!--
