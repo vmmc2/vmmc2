@@ -1,6 +1,4 @@
-### Hello there! 
-* Computer Engineering student at Universidade Federal de Pernambuco.
-* Deep Learning Researcher at Project Samsung.
+### Hello there!
 
 <!--
 **vmmc2/vmmc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
