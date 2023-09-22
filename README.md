@@ -1,4 +1,4 @@
-Hello There![]([(https://tenor.com/blgXw.gif]))My name is Victor Miguel de Morais Costa
+Hello There! My name is Victor Miguel de Morais Costa
 =====================================================================================================================================================
 
 Fullstack Software Engineering Intern | Computer Engineering Student at CIn/UFPE
