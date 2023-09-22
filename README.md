@@ -10,7 +10,7 @@ Fullstack Software Engineering Intern | Computer Engineering Student at CIn/UFPE
   * Compilers
   * Computer Graphics
   * Formal Methods
-  * Machine Learning
+  * Natural Language Processing
   * Programming Languages
   * Theoretical Computer Science
 
