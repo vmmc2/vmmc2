@@ -4,7 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Software Engineering Intern | Computer Engineering Student at CIn/UFPE
 --------------------------------------------------------------------------------
 
-Hello, there! My main interests in Computer Science are: Algorithms & Data Structures, Compilers, Computer Graphics, Formal Methods, Machine Learning, Programming Languages and Theoretical Computer Science.
+### About Me
+* Hello, there! My main interests in Computer Science are:
+  * Algorithms & Data Structures
+  * Compilers
+  * Computer Graphics
+  * Formal Methods
+  * Machine Learning
+  * Programming Languages
+  * Theoretical Computer Science
 
 *   🌍  I'm based in Recife, PE - Brazil
 *   ✉️  You can contact me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br)
