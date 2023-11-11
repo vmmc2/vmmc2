@@ -40,7 +40,7 @@ Fullstack Software Engineering Intern | Computer Engineering Student at CIn/UFPE
   </a>
 </p>
 
-<p> <strong> Back-End </strong> </p>
+<p> <strong> Back-End Programming </strong> </p>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,ts,express,nestjs,rails,mongodb,postgres" />
