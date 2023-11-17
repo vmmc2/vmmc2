@@ -19,7 +19,7 @@ Fullstack Software Engineering Intern | Computer Engineering Student at CIn/UFPE
 *   ⚡  Hobbies: Comics, Manga, Anime, TV Series, Cinema, Literature, Working Out, Drawing and Playing the Guitar.
 
 ### Skills 
-<p> <strong> Low-Level Programming </strong> </p>
+<p> <strong> Compiler Programming </strong> </p>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,rust" />
