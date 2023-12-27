@@ -14,9 +14,7 @@ Fullstack Software Engineering Intern | Computer Engineering Student at CIn/UFPE
 
 *   🌍  I'm based in Recife, PE - Brazil
 *   ✉️  You can contact me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br)
-*   🧠  I'm learning Ruby, Ruby on Rails, React.js, Nest.js.
 *   🤝  I'm open to collaborating on projects related to compilers, programming languages and computer graphics.
-*   ⚡  Hobbies: Comics, Manga, Anime, TV Series, Cinema, Literature, Working Out, Drawing and Playing the Guitar.
 
 ### Skills 
 <p> <strong> Compiler Programming </strong> </p>
