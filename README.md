@@ -12,7 +12,6 @@ Fullstack Software Engineering Intern | Computer Engineering Student at CIn/UFPE
 
 *   🌍  I'm based in Recife, PE - Brazil
 *   ✉️  You can contact me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br)
-*   🤝  I'm open to collaborating on projects related to compilers, programming languages and computer graphics.
 
 ### Skills 
 <p> <strong> Compiler Programming </strong> </p>
