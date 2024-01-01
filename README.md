@@ -5,7 +5,7 @@ Fullstack Software Engineering Intern | Computer Engineering Student at CIn/UFPE
 --------------------------------------------------------------------------------
 
 ### About Me
-* Hello, there! My main interests in Computer Science are:
+* Hello there! My main interests in Computer Science are:
   * Algorithms & Data Structures
   * Theoretical Computer Science
   * Compilers and Programming Languages
