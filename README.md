@@ -7,7 +7,7 @@ Fullstack Software Engineering Intern | Computer Engineering Student at CIn/UFPE
 ### About Me
 * Hello there! My main interests in Computer Science are:
   * Algorithms & Data Structures
-  * Theoretical Computer Science
+  * Computer Graphics
   * Compilers and Programming Languages
 
 *   🌍  I'm based in Recife, PE - Brazil
