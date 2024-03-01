@@ -14,14 +14,14 @@ Fullstack Software Engineering Intern | Computer Engineering Student at CIn/UFPE
 *   ✉️  You can contact me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br)
 
 ### Skills 
-<p> <strong> Compiler Programming </strong> </p>
+<p> <strong> Low-Level Programming </strong> </p>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp" />
   </a>
 </p>
 
-<p> <strong> Scripting Programming </strong> </p>
+<p> <strong> Script Programming </strong> </p>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py" />
