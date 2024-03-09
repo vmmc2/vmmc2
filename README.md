@@ -6,9 +6,9 @@ Fullstack Software Engineering Intern | Computer Engineering Student at CIn/UFPE
 
 ### About Me
 * Hello there! My main interests in Computer Science are:
-  * Algorithms & Data Structures
-  * Computer Graphics
-  * Compilers and Programming Languages
+  * Compilers, Formal Methods, Programming Languages and Program Synthesis
+  * Computer Graphics and Game Development
+  * Generative AI
 
 *   🌍  I'm based in Recife, PE - Brazil
 *   ✉️  You can contact me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br)
