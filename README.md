@@ -21,13 +21,6 @@ Fullstack Software Engineering Intern | Computer Engineering Student at CIn/UFPE
   </a>
 </p>
 
-<p> <strong> Functional Programming </strong> </p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=clojure" />
-  </a>
-</p>
-
 <p> <strong> Front-End Programming </strong> </p>
 <p align="left">
   <a href="https://skillicons.dev">
