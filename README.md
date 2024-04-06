@@ -21,6 +21,13 @@ Fullstack Software Engineering Intern | Computer Engineering Student at CIn/UFPE
   </a>
 </p>
 
+<p> <strong> Scripting Programming </strong> </p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+</p>
+
 <p> <strong> Front-End Programming </strong> </p>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -31,7 +38,7 @@ Fullstack Software Engineering Intern | Computer Engineering Student at CIn/UFPE
 <p> <strong> Back-End Programming </strong> </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,python,django,postgres,mongo" />
+    <img src="https://skillicons.dev/icons?i=express,django,postgres,mongo" />
   </a>
 </p>
 
