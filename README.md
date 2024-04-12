@@ -1,7 +1,7 @@
 Hello There! My name is Victor Miguel de Morais Costa
 =====================================================================================================================================================
 
-Fullstack Software Engineering Intern | Computer Engineering Student at CIn/UFPE
+Full-Stack Software Engineering Intern
 --------------------------------------------------------------------------------
 
 ### About Me
