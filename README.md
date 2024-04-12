@@ -1,4 +1,4 @@
-Hello There! My name is Victor Miguel de Morais Costa
+Hello there!
 =====================================================================================================================================================
 
 Full-Stack Software Engineering Intern
