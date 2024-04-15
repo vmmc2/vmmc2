@@ -6,7 +6,7 @@ Full-Stack Software Engineering Intern
 
 ### About Me
 * __Hello there! My main interests in Computer Science are:__
-  * __Algorithms & Data Structures + Deep Learning__
+  * __Algorithms & Data Structures, Theoretical Computer Science, Foundations of Deep Learning__
   * __Compilers, Programming Languages, Proof Assistants__
   * __Computer Graphics, Game Development__
 *   🌍  __Currently living in Recife, PE - Brazil__
