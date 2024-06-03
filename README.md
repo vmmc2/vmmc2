@@ -9,6 +9,7 @@ Full-Stack Software Engineering Intern
   * __Algorithms & Data Structures, Theoretical Computer Science__
   * __Compilers, Programming Languages, Proof Assistants__
   * __Computer Graphics, Game Development__
+  * __Machine Learning applied to any of the areas mentioned above__
 *   🌍  __Currently living in Recife, PE - Brazil__
 *   ✉️  __You can contact me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br)__
 
