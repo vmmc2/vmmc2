@@ -13,31 +13,31 @@ Full-Stack Software Engineering Intern
 *   ✉️  __You can contact me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br)__
 
 ### Skills 
-<p> <strong> Low-Level Programming </strong> </p>
+<p> <strong> Programming Languages </strong> </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,ruby,java,js,ts,css,html" />
   </a>
 </p>
 
-<p> <strong> Scripting Programming </strong> </p>
+<p> <strong> Front-End Frameworks </strong> </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=tailwind,react" />
   </a>
 </p>
 
-<p> <strong> Front-End Programming </strong> </p>
+<p> <strong> Back-End Frameworks </strong> </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react" />
+    <img src="https://skillicons.dev/icons?i=express,django,rails" />
   </a>
 </p>
 
-<p> <strong> Back-End Programming </strong> </p>
+<p> <strong> Databases </strong> </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,django,postgres,mongo" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongo" />
   </a>
 </p>
 
