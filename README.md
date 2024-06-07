@@ -6,7 +6,6 @@ Full-Stack Software Engineering Intern
 
 ### About Me
 * __Hello there! My main interests in Computer Science are:__
-  * __Algorithms & Data Structures, Theoretical Computer Science__
   * __Compilers, Programming Languages, Proof Assistants__
   * __Computer Graphics, Game Development__
   * __Machine Learning applied to any of the areas mentioned above__
