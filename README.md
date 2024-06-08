@@ -14,9 +14,16 @@ Full-Stack Software Engineering Intern
 
 ### Skills 
 <p> <strong> Programming Languages </strong> </p>
+<p> Use on a daily basis (Have more familiarity0 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,ruby,java,js,ts,css,html" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,ruby,js,ts,css,html" />
+  </a>
+</p>
+<p> Have used in the past (Have less familiarity) </p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,rust,java,haskell,dart" />
   </a>
 </p>
 
