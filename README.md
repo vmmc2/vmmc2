@@ -20,7 +20,7 @@ Full-Stack Software Engineering Intern
   </a>
 </p>
 
-<h3> <strong> I have curiosity to work with: </strong> </h3>
+<h3> <strong> I have curiosity to learn/work with: </strong> </h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ocaml,haskell,rust,unreal" />
