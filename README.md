@@ -4,7 +4,7 @@ Hello there!
 Full-Stack Software Engineering Intern
 --------------------------------------------------------------------------------
 
-### About Me
+## About Me
 * __Hello there! My main interests in Computer Science are:__
   * __Compilers, Programming Languages, Proof Assistants__
   * __Computer Graphics, Game Development__
@@ -12,8 +12,14 @@ Full-Stack Software Engineering Intern
 *   🌍  __Currently living in Recife, PE - Brazil__
 *   ✉️  __You can contact me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com)__
 
-### Skills 
-<p> <strong> Programming Languages </strong> </p>
+## Skills 
+<h3> <strong> I enjoy working with the following tools </strong> </h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,rust,python,llvm" />
+  </a>
+</p>
+
 <p> Use on a daily basis (Have more familiarity) </p>
 <p align="left">
   <a href="https://skillicons.dev">
