@@ -7,7 +7,7 @@ Full-Stack Software Engineering Intern
 ## About Me
 * __Hello there! My main interests in Computer Science are:__
   * __Compilers, Programming Languages, Proof Assistants__
-  * __Computer Graphics, Game Development__
+  * __Computer Graphics__
   * __Machine Learning applied to any of the areas mentioned above__
 *   🌍  __Currently living in Recife, PE - Brazil__
 *   ✉️  __You can contact me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com)__
@@ -23,7 +23,7 @@ Full-Stack Software Engineering Intern
 <h3> <strong> I have curiosity to work with: </strong> </h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ocaml,haskell,rust" />
+    <img src="https://skillicons.dev/icons?i=ocaml,haskell,rust,unreal" />
   </a>
 </p>
 
