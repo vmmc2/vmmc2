@@ -13,50 +13,23 @@ Full-Stack Software Engineering Intern
 *   ✉️  __You can contact me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com)__
 
 ## Skills 
-<h3> <strong> I enjoy working with the following tools </strong> </h3>
+<h3> <strong> I enjoy working with: </strong> </h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,rust,python,llvm" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,,pytorch,github" />
   </a>
 </p>
 
-<p> Use on a daily basis (Have more familiarity) </p>
+<h3> <strong> I have curiosity to work with: </strong> </h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,ruby,js,ts,css,html" />
-  </a>
-</p>
-<p> Have used in the past (Have less familiarity) </p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,rust,java,haskell,dart" />
+    <img src="https://skillicons.dev/icons?i=ocaml,haskell,rust" />
   </a>
 </p>
 
-<p> <strong> Front-End Frameworks </strong> </p>
+<h3> At my current job I work with: </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,react" />
-  </a>
-</p>
-
-<p> <strong> Back-End Frameworks </strong> </p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,django,rails" />
-  </a>
-</p>
-
-<p> <strong> Databases </strong> </p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongo" />
-  </a>
-</p>
-
-<p> <strong> Tools </strong> </p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=js,ts,css,html,react,tailwind,ruby,rails,postgresql,gitlab" />
   </a>
 </p>
