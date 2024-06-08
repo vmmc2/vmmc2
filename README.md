@@ -10,11 +10,11 @@ Full-Stack Software Engineering Intern
   * __Computer Graphics, Game Development__
   * __Machine Learning applied to any of the areas mentioned above__
 *   🌍  __Currently living in Recife, PE - Brazil__
-*   ✉️  __You can contact me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br)__
+*   ✉️  __You can contact me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com)__
 
 ### Skills 
 <p> <strong> Programming Languages </strong> </p>
-<p> Use on a daily basis (Have more familiarity0 </p>
+<p> Use on a daily basis (Have more familiarity) </p>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,python,ruby,js,ts,css,html" />
