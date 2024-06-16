@@ -19,17 +19,3 @@ Full-Stack Software Engineering Intern
     <img src="https://skillicons.dev/icons?i=js,css,html,ts,react,tailwind,ruby,rails,postgresql" />
   </a>
 </p>
-
-<h3> <strong> However, I enjoy working with: </strong> </h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,django,react" />
-  </a>
-</p>
-
-<h3> <strong> Moreover, I have curiosity to learn/work with: </strong> </h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ocaml,haskell,rust,unreal" />
-  </a>
-</p>
