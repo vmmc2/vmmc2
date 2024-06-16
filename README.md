@@ -16,14 +16,14 @@ Full-Stack Software Engineering Intern
 <h3> At my current job (and also in the previous ones) I work(ed) with: </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,html,ts,react,tailwind,ruby,rails,postgresql,git,gitlab" />
+    <img src="https://skillicons.dev/icons?i=js,css,html,ts,react,tailwind,ruby,rails,postgresql" />
   </a>
 </p>
 
 <h3> <strong> However, I enjoy working with: </strong> </h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,django,react,pytorch,git,github" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,django,react" />
   </a>
 </p>
 
