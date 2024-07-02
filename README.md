@@ -14,6 +14,13 @@ Full-Stack Software Engineering Intern
 *   ✉️  __You can contact me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com)__
 
 ## Skills 
+<h3> I want to take a deep dive into the following technologies in order to master them: </p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,python,java,ocaml,react,tailwind,html,css" />
+  </a>
+</p>
+
 <h3> At my current job (and also in the previous ones) I work(ed) with: </p>
 <p align="left">
   <a href="https://skillicons.dev">
