@@ -17,7 +17,7 @@ Full-Stack Software Engineering Intern
 <h3> I am currently taking a deep dive into the following technologies in order to master them: </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,python,coq" />
+    <img src="https://skillicons.dev/icons?i=python" />
   </a>
 </p>
 
