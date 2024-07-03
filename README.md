@@ -12,8 +12,7 @@ Full-Stack Software Engineering Intern
   * __Machine Learning applied to any of the areas mentioned above__
 *   🌍  __Currently living in Recife, PE - Brazil__
 *   ✉️  __You can contact me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com)__
-
-## Skills 
+ 
 <!-- <h3> I am currently taking a deep dive into the following technologies in order to master them: </p>
 <p align="left">
   <a href="https://skillicons.dev">
