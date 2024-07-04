@@ -16,6 +16,6 @@ Full-Stack Software Engineering Intern
  <h3> I have experience with </h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c++,python,js,ts,html,css,django,express,nest,react,tailwind,postgresql" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,django,express,nest,react,tailwind,postgresql" />
   </a>
 </p>
