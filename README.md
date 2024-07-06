@@ -13,9 +13,16 @@ Full-Stack Software Engineering Intern
 *   🌍  __Currently living in Recife, PE - Brazil__
 *   ✉️  __You can contact me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com)__
  
- <h3> I have experience with </h3>
+<h3> I have experience with </h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,django,express,nest,react,tailwind,postgresql" />
+  </a>
+</p>
+
+<h3> Things I'd like to give it a try </h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,haskell,ocaml,rust" />
   </a>
 </p>
