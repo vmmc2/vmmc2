@@ -13,16 +13,30 @@ Full-Stack Software Engineer
 *   🌍  __Currently living in Recife, PE - Brazil__
 *   ✉️  __You can contact me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com)__
  
-<h3> I have experience with </h3>
+<h3> I have experience with (More experience from left to right) </h3>
+<h4> Programming Languages </h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,django,express,nest,react,tailwind,postgresql" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,ruby,rust,html,cssl" />
   </a>
 </p>
-
-<h3> Things I'd like to give it a try </h3>
+<h4> Front-End Frameworks </h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,haskell,ocaml,rust" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind" />
   </a>
 </p>
+<h4> Back-End Frameworks </h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,express,nest" />
+  </a>
+</p>
+<h4> Databases </h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgresql" />
+  </a>
+</p>
+<h4> Other Stuff </h4>
+<p>LLVM, Coq</p>
