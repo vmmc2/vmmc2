@@ -17,16 +17,16 @@ Full-Stack Software Engineer
 <h4> Programming Languages </h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,ruby,rust,html,cssl" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,ruby,rust" />
   </a>
 </p>
-<h4> Front-End Frameworks </h4>
+<h4> Front-End </h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind" />
   </a>
 </p>
-<h4> Back-End Frameworks </h4>
+<h4> Back-End </h4>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,express,nest" />
