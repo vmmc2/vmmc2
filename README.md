@@ -1,7 +1,7 @@
 Hello there!
 =====================================================================================================================================================
 
-Full-Stack Software Engineer
+Software Engineer
 --------------------------------------------------------------------------------
 
 ## About Me
@@ -9,7 +9,6 @@ Full-Stack Software Engineer
   * __Algorithms & Data Structures__
   * __Compilers__
   * __Computer Graphics, Computational Geometry__
-  * __Machine Learning applied to any of the areas mentioned above__
 *   🌍  __Currently living in Recife, PE - Brazil__
 *   ✉️  __You can contact me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com)__
  
