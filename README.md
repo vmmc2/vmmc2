@@ -37,5 +37,3 @@ Software Engineer
     <img src="https://skillicons.dev/icons?i=postgresql" />
   </a>
 </p>
-<h4> Other Stuff </h4>
-<p>LLVM, Coq</p>
