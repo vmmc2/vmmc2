@@ -28,7 +28,7 @@ Software Engineer
 <h4> Back-End </h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,express,nest" />
+    <img src="https://skillicons.dev/icons?i=django,express,rails" />
   </a>
 </p>
 <h4> Databases </h4>
