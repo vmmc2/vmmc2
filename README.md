@@ -16,7 +16,7 @@ Software Engineer
 <h4> Programming Languages </h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,ruby,rust" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,ruby" />
   </a>
 </p>
 <h4> Front-End </h4>
