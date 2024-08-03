@@ -16,7 +16,7 @@ Software Engineer
 <h4> Programming Languages </h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,ruby" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts" />
   </a>
 </p>
 <h4> Front-End </h4>
@@ -28,7 +28,7 @@ Software Engineer
 <h4> Back-End </h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,express,rails" />
+    <img src="https://skillicons.dev/icons?i=django,express" />
   </a>
 </p>
 <h4> Databases </h4>
