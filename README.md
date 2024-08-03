@@ -12,7 +12,6 @@ Software Engineer
 *   🌍  __Currently living in Recife, PE - Brazil__
 *   ✉️  __You can contact me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com)__
  
-<h3> I have experience with (More experience from left to right) </h3>
 <h4> Programming Languages </h4>
 <p align="left">
   <a href="https://skillicons.dev">
