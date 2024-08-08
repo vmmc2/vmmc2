@@ -12,27 +12,9 @@ Software Engineer
 *   🌍  __Currently living in Recife, PE - Brazil__
 *   ✉️  __You can contact me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com)__
  
-<h4> Programming Languages </h4>
+<h3> Tools </h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts" />
-  </a>
-</p>
-<h4> Front-End </h4>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind" />
-  </a>
-</p>
-<h4> Back-End </h4>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,express" />
-  </a>
-</p>
-<h4> Databases </h4>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,ruby,ts,js,html,css,react,tailwind,django,express,rails,postgresql" />
   </a>
 </p>
