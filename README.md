@@ -4,7 +4,7 @@ Hello there!
 Software Engineer
 --------------------------------------------------------------------------------
 
-## About Me
+<h3> About Me </h3>
 * __Hello there! My main interests in Computer Science are:__
   * __Algorithms & Data Structures__
   * __Compilers__
