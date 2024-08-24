@@ -14,6 +14,6 @@ Software Engineer
 ### Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,ruby,ts,js,html,css,react,tailwind,django,express,rails,postgresql" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,html,css,react,tailwind,django,express,nest,postgresql" />
   </a>
 </p>
