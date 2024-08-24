@@ -8,6 +8,7 @@ Software Engineer
 * __Hello there! My main interests in Computer Science are:__
   * __Algorithms & Data Structures__
   * __Compilers and Programming Languages__
+  * __Computer Graphics__
 *   🌍  __Currently living in Recife, PE - Brazil__
 *   ✉️  __You can contact me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com)__
 
