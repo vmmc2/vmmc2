@@ -5,7 +5,8 @@ Software Engineer
 --------------------------------------------------------------------------------
 
 ### About myself
-* __Hello there! My main interests in Computer Science are:__
+* __Hello there! I have obtained my Bachelors Degree in Computer Engineering at Universidade Federal de Pernambuco (UFPE), located in Brazil.__
+* __My main interests in Computer Science are primarily but not restricted to:__
   * __Algorithms & Data Structures__
   * __Compilers and Programming Languages__
   * __Computer Graphics__
