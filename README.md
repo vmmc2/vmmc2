@@ -10,7 +10,7 @@ Software Engineer
   * __Compilers and Programming Languages__
   * __Computer Graphics__
 *   🌍  __Currently living in Recife, PE - Brazil__
-*   ✉️  __You can contact me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com)__
+*   ✉️  __You can contact me at [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com)__
 
 ### Tools
 <p align="left">
