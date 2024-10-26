@@ -1,8 +1,9 @@
 Hello there!
 =====================================================================================================================================================
 
-Software Engineer
+<!--Software Engineer
 --------------------------------------------------------------------------------
+-->
 
 ### About myself
 * __I have obtained my BsC Degree in Computer Engineering at Universidade Federal de Pernambuco (UFPE), located in Brazil.__
