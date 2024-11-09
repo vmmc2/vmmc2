@@ -16,7 +16,7 @@ Hello there!
 *   🌍  __Currently living in Recife, PE - Brazil__
 *   ✉️  __You can contact me at [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com)__
 
-### Tools
+### Tools I have previously worked or currently working with:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,html,css,react,tailwind,django,express,nest,postgresql" />
