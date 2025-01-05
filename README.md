@@ -6,15 +6,11 @@ Hello there!
 -->
 
 ### About myself
-* __I have obtained my BsC Degree in Computer Engineering at Universidade Federal de Pernambuco (UFPE), located in Brazil.__
-* __Currently working as a Software Engineer at Iara Systems.__
-* __Currently a MsC student in Computer Science at Universidade Federal de Pernambuco, specializing in Compilers and Programming Languages.__
-* __My main interests in Computer Science are primarily but not restricted to:__
-  * __Algorithms & Data Structures__
-  * __Compilers and Programming Languages__
-  * __Computer Graphics__
-*   🌍  __Currently living in Recife, PE - Brazil__
-*   ✉️  __You can contact me at [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com)__
+* 🎓 Bachelor's in Computer Engineering from UFPE and pursuing an MSc in Computer Science at UFPE (UFPE stands for Federal University of Pernambuco), focusing on Compilers and Programming Languages.
+* 💻 Software Engineer at Iara Systems.
+* 🔍 __My main interests in Computer Science are primarily but not restricted to: Algorithms & Data Structures, Compilers & Programming Languages, and Computer Graphics.__
+* 🌍  Based in Recife, PE - Brazil.
+* ✉️  Reach me at [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com).
 
 ### Tools I have previously worked or currently working with:
 <p align="left">
