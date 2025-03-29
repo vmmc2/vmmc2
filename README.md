@@ -10,7 +10,6 @@ Hello there!
 * 💻 Software Engineer at Iara Systems.
 * 🎓 __Academic Experience:__
   * __I have obtained my Bachelor's degree in Computer Engineering from the Federal University of Pernambuco, in Brazil.__
-  * __I am now pursuing my Master's degree in Computer Science also at the Federal University of Pernambuco, focusing on Compilers and Programming Languages.__
 * 🔍 __My main interests in Computer Science are primarily but not restricted to:__
   * __Algorithms & Data Structures__
   * __Compilers & Programming Languages__
