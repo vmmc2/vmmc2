@@ -16,9 +16,16 @@ Hello there!
   * __Computer Graphics__
 * ✉️  __Feel free to reach me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com).__
 
-### Tools I have previously worked or currently working with:
+### Currently, I am heavily working with these tools on a daily basis:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,html,css,react,tailwind,django,express,nest,postgresql" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,cmake,opencv,docker" />
+  </a>
+</p>
+
+### In the past, I have already worked with these tools:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,tailwind,django,express,node,postgresql" />
   </a>
 </p>
