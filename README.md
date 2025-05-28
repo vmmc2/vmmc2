@@ -29,10 +29,3 @@ Hello there!
     <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,tailwind,django,express,postgresql,github" />
   </a>
 </p>
-
-### In my free time, I am learning about the following tools:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,cpp,django,haskell,nestjs,python,pytorch,qt,rust,ts,react" />
-  </a>
-</p>
