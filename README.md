@@ -23,7 +23,7 @@ Hello there!
   </a>
 </p>
 
-### In the past, I have already worked with these tools:
+### In the past, I have worked with the following tools:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,tailwind,django,express,postgresql,github" />
