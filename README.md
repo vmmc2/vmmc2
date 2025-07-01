@@ -6,8 +6,8 @@ Hello there!
 -->
 
 ### About myself:
-* 🌍  Based in Recife, PE - Brazil.
-* 💻 Junior Software Engineer at Iara Systems.
+* 🌍 __Based in Recife, PE - Brazil.__
+* 💻 __Junior Software Engineer at Iara Systems.__
 * 🎓 __Academic Experience:__
   * __I have obtained my Bachelor's degree in Computer Engineering from the Federal University of Pernambuco, located in Brazil.__
 * 🔍 __Currently, my main interests in Computer Science are:__
@@ -16,7 +16,7 @@ Hello there!
   * __Computer Graphics__
   * __Machine Learning & Deep Learning__
   * __Proof Assistants__
-* 🤠 I also enjoy learning about Mathematics and Physics.
+* 🤠 __I also enjoy learning about Mathematics and Physics.__
 * ✉️  __Feel free to reach me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com).__
 
 ### Currently, I am heavily working with these tools on a daily basis:
