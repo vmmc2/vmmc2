@@ -10,7 +10,7 @@ Hello there!
 * 💻 Junior Software Engineer at Iara Systems.
 * 🎓 __Academic Experience:__
   * __I have obtained my Bachelor's degree in Computer Engineering from the Federal University of Pernambuco, located in Brazil.__
-* 🔍 __My main interests in Computer Science are primarily but not restricted to:__
+* 🔍 __Currently, my main interests in Computer Science are:__
   * __Algorithms & Data Structures__
   * __Compilers & Programming Languages__
   * __Computer Graphics__
