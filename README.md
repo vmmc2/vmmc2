@@ -14,7 +14,7 @@ Hello there!
   * __Algorithms & Data Structures__
   * __Compilers & Programming Languages__
   * __Computer Graphics__
-  * __Machine Learning and Deep Learning__
+  * __Machine Learning & Deep Learning__
   * __Proof Assistants__
 * 🤠 I also enjoy learning about Mathematics and Physics.
 * ✉️  __Feel free to reach me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com).__
