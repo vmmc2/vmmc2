@@ -13,7 +13,7 @@ Hello there!
 * 🔍 __Currently, my main interests in Computer Science are:__
   * __Algorithms & Data Structures__
   * __Compilers, Programming Languages and Proof Assistants__
-  * __Computer Graphics__
+  * __Theoretical Computer Science__
 * 🤠 __I also enjoy learning about Mathematics and Physics.__
 * ✉️  __Feel free to reach me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com).__
 
