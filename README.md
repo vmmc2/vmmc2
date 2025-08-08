@@ -7,7 +7,6 @@ Hello there!
 
 ### About myself:
 * 🌍 __Based in Recife, PE - Brazil.__
-* 💻 __Junior Software Engineer at Iara Systems.__
 * 🎓 __Academic Experience:__
   * __I have obtained my Bachelor's degree in Computer Engineering from the Federal University of Pernambuco, located in Brazil.__
 * 🔍 __Currently, my main interests in Computer Science are:__
