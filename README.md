@@ -19,13 +19,20 @@ Hello there!
 ### Currently, I am heavily working with these tools on a daily basis:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,cmake,opencv,docker,git,gitlab" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,cmake,opencv,docker,git,github,gitlab" />
+  </a>
+</p>
+
+### I have an interest in learning the following tools:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,haskell,ocaml,rust" />
   </a>
 </p>
 
 ### In the past, I have worked with the following tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,tailwind,django,express,postgresql,github" />
+    <img src="https://skillicons.dev/icons?i=ts,html,css,react,tailwind,django,express,postgresql" />
   </a>
 </p>
