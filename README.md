@@ -13,7 +13,6 @@ Hello there!
   * __Algorithms & Data Structures__
   * __Compilers, Programming Languages and Proof Assistants__
   * __Theoretical Computer Science__
-* 🤠 __I also enjoy learning about Mathematics and Physics.__
 * ✉️  __Feel free to reach me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com).__
 
 ### Currently, I am heavily working with these tools on a daily basis:
