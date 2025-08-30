@@ -22,13 +22,6 @@ Hello there!
   </a>
 </p>
 
-### I have an interest in learning the following tools:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,haskell,ocaml,rust" />
-  </a>
-</p>
-
 ### In the past, I have worked with the following tools:
 <p align="left">
   <a href="https://skillicons.dev">
