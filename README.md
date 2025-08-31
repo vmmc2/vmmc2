@@ -25,6 +25,6 @@ Hello there!
 ### In the past, I have worked with the following tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,html,css,react,tailwind,django,express,postgresql" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,tailwind,django,express,postgresql" />
   </a>
 </p>
