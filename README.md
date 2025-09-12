@@ -14,7 +14,7 @@ Hello there!
   * __Compilers, Programming Languages and Proof Assistants__
   * __Theoretical Computer Science__
 * ✉️  __Feel free to reach me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com).__
-* ✉️  __My CodeForces profile: [facelifty](https://codeforces.com/profile/facelifty).__
+* ✉️  __My Codeforces profile: [facelifty](https://codeforces.com/profile/facelifty).__
 
 ### Currently, I am heavily working with these tools on a daily basis:
 <p align="left">
