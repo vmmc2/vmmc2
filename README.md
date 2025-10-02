@@ -6,9 +6,8 @@ Hello there!
 -->
 
 ### About myself:
-* 🌍 __Based in Recife, PE - Brazil.__
 * 🎓 __Academic Experience:__
-  * __I have obtained my Bachelor's degree in Computer Engineering from the Federal University of Pernambuco, located in Brazil.__
+  * __I have obtained my Bachelor's degree in Computer Engineering from the Federal University of Pernambuco (🇧🇷).__
 * 🔍 __Currently, my main interests in Computer Science are:__
   * __Algorithms & Data Structures.__
   * __Compilers, Programming Languages and Proof Assistants.__
