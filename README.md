@@ -14,7 +14,7 @@ Hello there!
   * __Algorithms & Data Structures.__
   * __Compilers, Programming Languages, Proof Assistants and Reasoning.__
   * __Computer Graphics.__
-  * __Comvputer Vision and Image Processing.__
+  * __Computer Vision and Image Processing.__
 * ✉️  __Feel free to reach me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com).__
 * ✉️  __My Codeforces profile: [facelifty](https://codeforces.com/profile/facelifty).__
 
