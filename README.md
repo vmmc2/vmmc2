@@ -18,14 +18,14 @@ Hello there!
 * ✉️  __Feel free to reach me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com).__
 * ✉️  __My Codeforces profile: [facelifty](https://codeforces.com/profile/facelifty).__
 
-### Currently, I am working with the following tools:
+### I frequently work with the following tools:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,python,cmake,opencv,docker,git,github,gitlab" />
   </a>
 </p>
 
-### Previously, I have worked with the following tools:
+### I have some knowledge about the following tools:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,tailwind,django,express,postgresql" />
