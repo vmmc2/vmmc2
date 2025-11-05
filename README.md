@@ -5,7 +5,7 @@ Hello there!
 --------------------------------------------------------------------------------
 -->
 ### Disclaimer:
-* __This account only contains personal repositories. None of the repositories here have any connection with my current or previous employers.__
+* __This account only contains personal project. None of them have any connection with my current or previous employers.__
 
 ### About myself:
 * 🎓 __Academic Experience:__
