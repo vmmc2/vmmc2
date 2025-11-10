@@ -12,7 +12,7 @@ Hello there!
   * __I have obtained my Bachelor's degree in Computer Engineering from the Federal University of Pernambuco (🇧🇷).__
 * 🔍 __Currently, my main interests in Computer Science are:__
   * __Algorithms & Data Structures.__
-  * __Compilers, Programming Languages, Proof Assistants and Reasoning.__
+  * __Compilers, Programming Languages, Proof Assistants and Formal Verification.__
 * ✉️  __Feel free to reach me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com).__
 * ✉️  __My Codeforces profile: [facelifty](https://codeforces.com/profile/facelifty).__
 
