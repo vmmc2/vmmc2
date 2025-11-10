@@ -1,24 +1,19 @@
 Hello there!
 =====================================================================================================================================================
 
-<!--Software Engineer
---------------------------------------------------------------------------------
--->
-### Disclaimer:
-* __This account only contains personal projects. None of them have any connection with my current or previous employers.__
-
 ### About myself:
 * 🎓 __Academic Experience:__
-  * __I have obtained my Bachelor's degree in Computer Engineering from the Federal University of Pernambuco (a.k.a, UFPE), located in 🇧🇷.__
-* 🔍 __I have some proficiecy in the following fields of Computer Science:__
-  * __Algorithms & Data Structures.__
-  * __Compilers, Programming Languages, Proof Assistants and Formal Verification.__
-* 🔍 __I have curiosity to learn more about the following fields of Computer Science:__
+  * I have obtained my Bachelor's degree in __Computer Engineering from the Federal University of Pernambuco (a.k.a, UFPE), located in 🇧🇷.__
+* 🔍 I have some proficiecy in the following fields of Computer Science:
+  * __Algorithms & Data Structures__
+  * __Compilers & Programming Languages__
+* 🔍 I have curiosity to learn more about the following fields of Computer Science:
   * __Computational Geometry__
   * __Computer Graphics__
   * __Computer Vision__
-* ✉️  __Feel free to reach me at [vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com).__
-* ✉️  __My Codeforces profile: [facelifty](https://codeforces.com/profile/facelifty).__
+  * __Formal Verification and Proof Assistants__
+* ✉️ Feel free to reach me at __[vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com).__
+* ✉️ __My Codeforces profile: [facelifty](https://codeforces.com/profile/facelifty).__
 
 ### I frequently work with the following tools:
 <p align="left">
