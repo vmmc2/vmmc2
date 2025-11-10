@@ -9,7 +9,7 @@ Hello there!
 
 ### About myself:
 * 🎓 __Academic Experience:__
-  * __I have obtained my Bachelor's degree in Computer Engineering from the Federal University of Pernambuco (🇧🇷).__
+  * __I have obtained my Bachelor's degree in Computer Engineering from the Federal University of Pernambuco (a.k.a, UFPE), located in 🇧🇷.__
 * 🔍 __I have some proficiecy in the following fields of Computer Science:__
   * __Algorithms & Data Structures.__
   * __Compilers, Programming Languages, Proof Assistants and Formal Verification.__
