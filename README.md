@@ -7,11 +7,6 @@ Hello there!
 * 🔍 I have some proficiecy in the following fields of Computer Science:
   * __Algorithms & Data Structures__
   * __Compilers & Programming Languages__
-* 🔍 I have curiosity to learn more about the following fields of Computer Science:
-  * __Computational Geometry__
-  * __Computer Graphics__
-  * __Computer Vision__
-  * __Formal Verification and Proof Assistants__
 * ✉️ Feel free to reach me at __[vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com).__
 * ✉️ __My Codeforces profile: [facelifty](https://codeforces.com/profile/facelifty).__
 
