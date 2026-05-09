@@ -7,7 +7,7 @@ Hello there!
 * 🔍 I have some level of knowledge in the following fields of Computer Science:
   * __Algorithms & Data Structures__
   * __Compilers & Programming Languages__
-* ✉️ Feel free to reach me at __[vmmc2@cin.ufpe.br](mailto:vmmc2@cin.ufpe.br) or [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com).__
+* ✉️ Feel free to reach me at [vmmc5910@gmail.com](mailto:vmmc5910@gmail.com).__
 * ✉️ __My Codeforces profile: [facelifty](https://codeforces.com/profile/facelifty).__
 
 ### I frequently work with the following tools:
