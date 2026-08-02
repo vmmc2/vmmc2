@@ -13,21 +13,28 @@ Hello there!
 #### Programming and Markup Languages:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,bash,javascript,typescript,html,css" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,bash,typescript,javascript,html,css" />
   </a>
 </p>
 
-#### Programming Languages:
+#### Infrastructure and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,cmake,opencv,docker,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,cmake,vcpkg,heroku,git,github,gitlab" />
+  </a>
+</p>
+
+#### Databases:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgresql" />
   </a>
 </p>
 
 
-### I have some knowledge about the following tools:
+### Frameworks and Libraries:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,tailwind,django,express,postgresql" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,springboot,django" />
   </a>
 </p>
