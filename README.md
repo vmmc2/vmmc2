@@ -20,7 +20,7 @@ Hello there!
 #### Infrastructure and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,cmake,vcpkg,heroku,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,cmake,git,github,gitlab" />
   </a>
 </p>
 
@@ -35,6 +35,6 @@ Hello there!
 ### Frameworks and Libraries:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,springboot,django" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,spring,django" />
   </a>
 </p>
