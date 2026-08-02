@@ -9,12 +9,21 @@ Hello there!
 * ✉️ Feel free to reach me at __[vmmc5910@gmail.com](mailto:vmmc5910@gmail.com).__
 * ✉️ __My Codeforces profile: [facelifty](https://codeforces.com/profile/facelifty).__
 
-### I frequently work with the following tools:
+### Technical Skills
+#### Programming and Markup Languages:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,bash,javascript,typescript,html,css" />
+  </a>
+</p>
+
+#### Programming Languages:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,python,cmake,opencv,docker,git,github,gitlab" />
   </a>
 </p>
+
 
 ### I have some knowledge about the following tools:
 <p align="left">
